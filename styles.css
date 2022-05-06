@@ -1,0 +1,122 @@
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+h4 {
+    font-size: 12px;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.shapka p {
+    color: #404040;
+    margin: 0;
+}
+
+.shapka {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.shapka-text {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.music {
+    margin-top: 30px;
+    margin-left: 40px;
+    color: #404040;
+}
+
+.structure {
+    max-width: 75%;
+    margin: auto;
+}
+.style-yellow {
+    background: #fff9dc;
+}
+
+.style-green {
+    background: #e5ffe7;
+}
+
+.style-red {
+    background: #ffe5e5;
+}
+
+.style-orange {
+    background: hsl(21, 100%, 86%);
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.list{
+    padding: 0px 15px;
+}
+
+.list li {
+    margin-bottom: 10px;
+}
+
+.hobbi {
+    padding: 0px 15px;
+}
+.hobbi li {
+    margin-bottom: 10px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+a {
+    color: #121212;
+    text-decoration: none;
+}
+
+.my-works a:hover {
+    text-decoration: underline;
+}
+
+.my-works {
+    padding-left: 0px;
+    list-style:none;
+}
+.my-works li {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #6b6b6b;
+}
+body {
+    background-color: hsl(0, 0%, 91%);
+    color: #121212;
+
+    font-size: 16px; /*размер*/
+    font-weight: normal; /*жирный или нормальный шрифт*/
+    font-family: Arial, Helvetica, sans-serif; /*стиль шрифта*/
+
+    /* font: normal 16px Arial, Helvetica, sans-serif;  - это аналог записи выше*/
+}
